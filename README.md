@@ -22,6 +22,3 @@ pip install -r requirements.txt
 - Recall: **99%**
 - F1-score: **98%**
 
-## Future Improvements
-- Implement **feature selection** to reduce dataset size and training time.
-- Deploy as a simple web app using Flask.
